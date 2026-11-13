@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v3_example",
+ "prompt_sha": "bffa6da3018c",
+ "case": "p049",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"2000.00\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ИП Зайцев\",\n  \"purpose\": \"ремонт обуви\",\n  \"invoice_number\": null,\n  \"date\": \"2026-10-24\",\n  \"operation\": \"payment\"\n}"
+}

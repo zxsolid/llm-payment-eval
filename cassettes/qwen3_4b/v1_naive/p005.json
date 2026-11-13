@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p005",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"40 000 руб.\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО «Альфа Консалт»\",\n  \"purpose\": \"консультационные услуги\",\n  \"invoice_number\": \"Д-2026/18\",\n  \"date\": \"03.10.2026\",\n  \"operation\": \"payment\"\n}"
+}

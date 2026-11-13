@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p029",
+ "run": 0,
+ "raw": "{\"amount\": \"8600\", \"currency\": \"CNY\", \"counterparty\": \"Shenzhen Light Co.\", \"purpose\": \"светильники\", \"invoice_number\": \"\", \"date\": \"27.10.2026\", \"operation\": \"payment\"}"
+}

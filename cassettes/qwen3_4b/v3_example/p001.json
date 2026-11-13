@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v3_example",
+ "prompt_sha": "bffa6da3018c",
+ "case": "p001",
+ "run": 0,
+ "raw": "{\"amount\": \"85000.00\", \"currency\": \"RUB\", \"counterparty\": \"ООО Северный ветер\", \"purpose\": \"аренда офиса\", \"invoice_number\": \"1045\", \"date\": \"2026-10-05\", \"operation\": \"payment\"}"
+}

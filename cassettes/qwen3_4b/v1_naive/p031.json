@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p031",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"12000\",\n  \"currency\": \"USD\",\n  \"counterparty\": \"Каримов\",\n  \"purpose\": \"ремонт телефона\",\n  \"invoice_number\": \"09.11.2026\",\n  \"date\": \"2026-11-09\",\n  \"operation\": \"payment\"\n}"
+}

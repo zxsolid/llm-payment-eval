@@ -1,0 +1,8 @@
+.git
+.venv
+cassettes
+reports
+**/__pycache__
+.pytest_cache
+.deepeval
+*.egg-info

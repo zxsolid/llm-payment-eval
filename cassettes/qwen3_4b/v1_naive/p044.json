@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p044",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"9 450 руб.\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО «Партнёр»\",\n  \"purpose\": \"оплата по счёту 640 за бумагу\",\n  \"invoice_number\": \"640\",\n  \"date\": \"\",\n  \"operation\": \"payment\"\n}"
+}

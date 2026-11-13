@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p041",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"45000\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО «Ресурс»\",\n  \"purpose\": \"ошибочное перечисление\",\n  \"invoice_number\": \"05.11.2026\",\n  \"date\": \"2026-11-05\",\n  \"operation\": \"payment\"\n}"
+}

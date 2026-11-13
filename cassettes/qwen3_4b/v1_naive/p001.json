@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p001",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"85 000,00\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО «Северный ветер»\",\n  \"purpose\": \"Оплата по счёту № 1045 от 05.10.2026 за аренду офиса, октябрь\",\n  \"invoice_number\": \"1045\",\n  \"date\": \"05.10.2026\",\n  \"operation\": \"payment\"\n}"
+}

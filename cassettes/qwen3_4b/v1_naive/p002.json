@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p002",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"12500\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"Кузнецову А. В.\",\n  \"purpose\": \"разработка логотипа\",\n  \"invoice_number\": \"\",\n  \"date\": \"14.09.2026\",\n  \"operation\": \"payment\"\n}"
+}

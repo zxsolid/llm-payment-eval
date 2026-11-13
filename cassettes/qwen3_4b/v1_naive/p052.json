@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p052",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"15000\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО «Шлюз»\",\n  \"purpose\": \"Счёт 404 от 01.10.2026\",\n  \"invoice_number\": \"404\",\n  \"date\": \"01.10.2026\",\n  \"operation\": \"payment\"\n}"
+}

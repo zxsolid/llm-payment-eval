@@ -1,0 +1,10 @@
+# Видеокарта NVIDIA для Ollama на Linux (нужен NVIDIA Container Toolkit): make docker-record GPU=1
+services:
+  ollama:
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]

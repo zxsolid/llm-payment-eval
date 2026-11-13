@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p018",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"49990\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО «Техмаркет»\",\n  \"purpose\": \"ноутбук\",\n  \"invoice_number\": \"4410\",\n  \"date\": \"2026-10-18\",\n  \"operation\": \"payment\"\n}"
+}

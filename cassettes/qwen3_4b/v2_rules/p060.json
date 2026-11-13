@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v2_rules",
+ "prompt_sha": "12fed242b865",
+ "case": "p060",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"11000.00\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО Тепло\",\n  \"purpose\": \"котёл\",\n  \"invoice_number\": null,\n  \"date\": \"2026-11-03\",\n  \"operation\": \"payment\"\n}"
+}

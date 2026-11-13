@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p030",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"79.99\",\n  \"currency\": \"USD\",\n  \"counterparty\": \"SoftTools Inc.\",\n  \"purpose\": \"license\",\n  \"invoice_number\": \"04.11.2026\",\n  \"date\": \"2026-11-04\",\n  \"operation\": \"payment\"\n}"
+}

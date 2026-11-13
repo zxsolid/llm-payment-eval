@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v2_rules",
+ "prompt_sha": "12fed242b865",
+ "case": "p006",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"6845.30\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ТСЖ «Лесная 12»\",\n  \"purpose\": \"коммунальных услуг за октябрь 2026\",\n  \"invoice_number\": null,\n  \"date\": \"2026-11-10\",\n  \"operation\": \"payment\"\n}"
+}

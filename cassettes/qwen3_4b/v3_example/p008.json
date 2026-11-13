@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v3_example",
+ "prompt_sha": "bffa6da3018c",
+ "case": "p008",
+ "run": 0,
+ "raw": "{\"amount\": \"59900.00\", \"currency\": \"RUB\", \"counterparty\": \"АНО ДПО Цифровые навыки\", \"purpose\": \"обучение сотрудника\", \"invoice_number\": null, \"date\": \"2026-10-15\", \"operation\": \"payment\"}"
+}

@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v3_example",
+ "prompt_sha": "bffa6da3018c",
+ "case": "p006",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"6845.30\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ТСЖ Лесная 12\",\n  \"purpose\": \"коммунальные услуги\",\n  \"invoice_number\": null,\n  \"date\": \"2026-11-10\",\n  \"operation\": \"payment\"\n}"
+}

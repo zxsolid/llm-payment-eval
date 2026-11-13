@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p034",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"0\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО «Гарант»\",\n  \"purpose\": \"Подтверждение оплаты по договору № 56\",\n  \"invoice_number\": \"56\",\n  \"date\": \"0000-00-00\",\n  \"operation\": \"payment\"\n}"
+}

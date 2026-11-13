@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v3_example",
+ "prompt_sha": "bffa6da3018c",
+ "case": "p013",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"15000.00\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО Яркий\",\n  \"purpose\": \"оплата усулг маркетинга\",\n  \"invoice_number\": null,\n  \"date\": null,\n  \"operation\": \"payment\"\n}"
+}

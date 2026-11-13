@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p028",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"2 500 000\",\n  \"currency\": \"USD\",\n  \"counterparty\": \"OOO «Samarqand Savdo»\",\n  \"purpose\": \"mahsulot uchun\",\n  \"invoice_number\": \"21.10.2026\",\n  \"date\": \"21.10.2026\",\n  \"operation\": \"payment\"\n}"
+}

@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v2_rules",
+ "prompt_sha": "12fed242b865",
+ "case": "p048",
+ "run": 1,
+ "raw": "{\n  \"amount\": \"5000.00\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО Ромашка\",\n  \"purpose\": \"цветы\",\n  \"invoice_number\": \"10.10.2026\",\n  \"date\": \"2026-10-10\",\n  \"operation\": \"payment\"\n}"
+}

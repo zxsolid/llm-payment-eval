@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p040",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"7000\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО «Фитнес-клуб»\",\n  \"purpose\": \"абонемент\",\n  \"invoice_number\": \"\",\n  \"date\": \"\",\n  \"operation\": \"payment\"\n}"
+}

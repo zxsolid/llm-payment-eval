@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p010",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"120000\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ИП Смирнов Д. О.\",\n  \"purpose\": \"Аванс 30% по договору № 14 за ремонт склада\",\n  \"invoice_number\": \"14\",\n  \"date\": \"2026-11-07\",\n  \"operation\": \"payment\"\n}"
+}

@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p053",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"6 500\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"OOO Zvezda\",\n  \"purpose\": \"remont kompyutera\",\n  \"invoice_number\": \"11.10.2026\",\n  \"date\": \"11.10.2026\",\n  \"operation\": \"payment\"\n}"
+}

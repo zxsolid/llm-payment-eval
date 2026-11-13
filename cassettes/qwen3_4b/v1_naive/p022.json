@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p022",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"15000\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО «Свет»\",\n  \"purpose\": \"монтаж освещения\",\n  \"invoice_number\": \"13.10.2026\",\n  \"date\": \"2026-10-13\",\n  \"operation\": \"payment\"\n}"
+}

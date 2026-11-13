@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v2_rules",
+ "prompt_sha": "12fed242b865",
+ "case": "p040",
+ "run": 1,
+ "raw": "{\n  \"amount\": null,\n  \"currency\": null,\n  \"counterparty\": null,\n  \"purpose\": null,\n  \"invoice_number\": null,\n  \"date\": null,\n  \"operation\": \"payment\"\n}"
+}

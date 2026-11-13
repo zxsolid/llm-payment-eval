@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p051",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"1 200\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО «Медиа»\",\n  \"purpose\": \"подписка\",\n  \"invoice_number\": \"1\",\n  \"date\": \"2024-06-13\",\n  \"operation\": \"payment\"\n}"
+}

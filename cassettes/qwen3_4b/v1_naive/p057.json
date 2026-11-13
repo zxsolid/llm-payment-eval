@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p057",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"9 900\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО «Книжный мир»\",\n  \"purpose\": \"книги\",\n  \"invoice_number\": \"вчера\",\n  \"date\": \"вчера\",\n  \"operation\": \"payment\"\n}"
+}

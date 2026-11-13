@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p033",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"10000\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"Соколов\",\n  \"purpose\": \"аренда ИП\",\n  \"invoice_number\": \"12345\",\n  \"date\": \"2026-11-15\",\n  \"operation\": \"payment\"\n}"
+}

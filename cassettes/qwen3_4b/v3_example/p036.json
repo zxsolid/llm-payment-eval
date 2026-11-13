@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v3_example",
+ "prompt_sha": "bffa6da3018c",
+ "case": "p036",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"3990.00\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО Модный дом\",\n  \"purpose\": \"возвращённое пальто\",\n  \"invoice_number\": null,\n  \"date\": \"2026-10-12\",\n  \"operation\": \"refund\"\n}"
+}

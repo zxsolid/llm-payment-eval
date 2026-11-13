@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p055",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"18 000 р.\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"grafic design ИП Новикову\",\n  \"purpose\": \"Оплата за grafic design ИП Новикову\",\n  \"invoice_number\": \"06.11.2026\",\n  \"date\": \"06.11.2026\",\n  \"operation\": \"payment\"\n}"
+}

@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p019",
+ "run": 1,
+ "raw": "{\n  \"amount\": \"5075\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО «Чистый офис»\",\n  \"purpose\": \"уборка за октябрь\",\n  \"invoice_number\": \"\",\n  \"date\": \"\",\n  \"operation\": \"payment\"\n}"
+}

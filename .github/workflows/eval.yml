@@ -1,0 +1,19 @@
+name: eval
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  eval:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - run: pip install -e .
+      # Модель в CI не запускаем: проверки идут по записанным ответам из cassettes/.
+      - run: python -m pytest
+        env:
+          PAYEVAL_MODE: replay

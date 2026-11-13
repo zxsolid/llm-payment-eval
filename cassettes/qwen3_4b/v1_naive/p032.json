@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p032",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"0\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО «Вектор»\",\n  \"purpose\": \"оплатить счёт за услуги связи за октябрь\",\n  \"invoice_number\": \"0\",\n  \"date\": \"0\",\n  \"operation\": \"payment\"\n}"
+}

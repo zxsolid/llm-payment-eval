@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p011",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"4500р\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"оплота за доствку по счету 312 ооо ветер перемен\",\n  \"purpose\": \"02.10.2026\",\n  \"invoice_number\": \"02.10.2026\",\n  \"date\": \"02.10.2026\",\n  \"operation\": \"payment\"\n}"
+}

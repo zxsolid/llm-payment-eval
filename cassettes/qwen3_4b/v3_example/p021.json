@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v3_example",
+ "prompt_sha": "bffa6da3018c",
+ "case": "p021",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"300.00\",\n  \"currency\": \"USD\",\n  \"counterparty\": \"Bright Studio LLC\",\n  \"purpose\": \"website design\",\n  \"invoice_number\": null,\n  \"date\": \"2026-10-25\",\n  \"operation\": \"payment\"\n}"
+}

@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p023",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"120000.00\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО «Уют»\",\n  \"purpose\": \"оплата по договору № 33 за поставку мебели\",\n  \"invoice_number\": \"33\",\n  \"date\": null,\n  \"operation\": \"payment\"\n}"
+}

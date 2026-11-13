@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p043",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"2 890 руб.\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО «Аптека здоровья»\",\n  \"purpose\": \"лекарства\",\n  \"invoice_number\": \"20.10.2026\",\n  \"date\": \"20.10.2026\",\n  \"operation\": \"payment\"\n}"
+}

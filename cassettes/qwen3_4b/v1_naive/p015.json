@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p015",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"7.800 руб\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ИП Петров\",\n  \"purpose\": \"Оплата за обслуживание кондиционеров\",\n  \"invoice_number\": null,\n  \"date\": null,\n  \"operation\": \"payment\"\n}"
+}

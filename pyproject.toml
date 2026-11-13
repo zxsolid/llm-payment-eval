@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "llm-payment-eval"
+version = "0.1.0"
+description = "Как проверять LLM, которая разбирает платёжные сообщения"
+requires-python = ">=3.11"
+dependencies = [
+    "pydantic==2.14.3",
+    "ollama==0.6.3",
+    "pytest==9.2.0",
+]
+
+[project.optional-dependencies]
+judge = ["deepeval==4.3.4"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+markers = [
+    "judge: оценка свободного текста другой моделью (DeepEval), нужна запущенная Ollama",
+]
+addopts = "-ra"
+
+[tool.setuptools.packages.find]
+where = ["src"]

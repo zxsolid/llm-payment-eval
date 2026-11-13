@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p038",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"120\",\n  \"currency\": \"EUR\",\n  \"counterparty\": \"Hotel Alpenblick\",\n  \"purpose\": \"booking cancelled\",\n  \"invoice_number\": \"23.10.2026\",\n  \"date\": \"23.10.2026\",\n  \"operation\": \"refund\"\n}"
+}

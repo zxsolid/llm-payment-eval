@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v2_rules",
+ "prompt_sha": "12fed242b865",
+ "case": "p025",
+ "run": 1,
+ "raw": "{\n  \"amount\": \"1200000.00\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"АО Энергосервис\",\n  \"purpose\": \"оборудование\",\n  \"invoice_number\": \"901\",\n  \"date\": \"2026-10-30\",\n  \"operation\": \"payment\"\n}"
+}

@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v2_rules",
+ "prompt_sha": "12fed242b865",
+ "case": "p009",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"18000.00\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО «Облачные решения»\",\n  \"purpose\": \"хостинга на год\",\n  \"invoice_number\": \"2026-0912\",\n  \"date\": \"2026-09-12\",\n  \"operation\": \"payment\"\n}"
+}

@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p059",
+ "run": 0,
+ "raw": "{\"amount\": \"72000\", \"currency\": \"RUB\", \"counterparty\": \"ООО «Квант»\", \"purpose\": \"лицензии\", \"invoice_number\": \"12\", \"date\": \"2026-10-31\", \"operation\": \"payment\"}"
+}

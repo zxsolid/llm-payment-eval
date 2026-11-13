@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v3_example",
+ "prompt_sha": "bffa6da3018c",
+ "case": "p027",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"450000.00\",\n  \"currency\": \"KZT\",\n  \"counterparty\": \"ТОО Алтын Жол\",\n  \"purpose\": \"перевозка груза\",\n  \"invoice_number\": null,\n  \"date\": \"2026-10-16\",\n  \"operation\": \"payment\"\n}"
+}

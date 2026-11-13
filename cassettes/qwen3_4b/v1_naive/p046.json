@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p046",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"4200\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"Морозова\",\n  \"purpose\": \"кофе и фильтры\",\n  \"invoice_number\": \"26.10.2026\",\n  \"date\": \"2026-10-26\",\n  \"operation\": \"payment\"\n}"
+}

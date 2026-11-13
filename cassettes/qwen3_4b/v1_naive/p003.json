@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p003",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"3 200\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО «Метрика Плюс»\",\n  \"purpose\": \"подписка на сервис аналитики\",\n  \"invoice_number\": \"01.11.2026\",\n  \"date\": \"01.11.2026\",\n  \"operation\": \"payment\"\n}"
+}

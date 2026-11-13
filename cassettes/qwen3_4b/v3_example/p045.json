@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v3_example",
+ "prompt_sha": "bffa6da3018c",
+ "case": "p045",
+ "run": 0,
+ "raw": "{\"amount\": \"31000.00\", \"currency\": \"RUB\", \"counterparty\": \"ООО Логос\", \"purpose\": \"перевод текстов\", \"invoice_number\": \"20261015\", \"date\": \"2026-10-15\", \"operation\": \"payment\"}"
+}

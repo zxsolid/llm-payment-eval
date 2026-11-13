@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p012",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"3500\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"Иванов\",\n  \"purpose\": \"ремонт стиралки\",\n  \"invoice_number\": \"11.10.2026\",\n  \"date\": \"2026-10-11\",\n  \"operation\": \"payment\"\n}"
+}

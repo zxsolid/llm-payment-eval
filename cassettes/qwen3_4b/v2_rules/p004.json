@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v2_rules",
+ "prompt_sha": "12fed242b865",
+ "case": "p004",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"146780.50\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"АО «Транслогистик»\",\n  \"purpose\": \"услуги доставки за сентябрь\",\n  \"invoice_number\": \"77-А\",\n  \"date\": \"2026-10-20\",\n  \"operation\": \"payment\"\n}"
+}

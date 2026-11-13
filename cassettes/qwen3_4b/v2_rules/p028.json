@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v2_rules",
+ "prompt_sha": "12fed242b865",
+ "case": "p028",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"2500000.00\",\n  \"currency\": \"UZS\",\n  \"counterparty\": \"OOO Samarqand Savdo\",\n  \"purpose\": \"mahsulot uchun\",\n  \"invoice_number\": null,\n  \"date\": \"2026-10-21\",\n  \"operation\": \"payment\"\n}"
+}

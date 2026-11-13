@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v3_example",
+ "prompt_sha": "bffa6da3018c",
+ "case": "p056",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"3000.00\",\n  \"currency\": \"UZS\",\n  \"counterparty\": \"IP Rahimov\",\n  \"purpose\": \"taksi xizmati\",\n  \"invoice_number\": null,\n  \"date\": \"2026-11-02\",\n  \"operation\": \"payment\"\n}"
+}

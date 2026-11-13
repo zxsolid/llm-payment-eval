@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v3_example",
+ "prompt_sha": "bffa6da3018c",
+ "case": "p010",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"120000.00\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ИП Смирнов Д. О.\",\n  \"purpose\": \"ремонт склада\",\n  \"invoice_number\": \"14\",\n  \"date\": \"2026-11-07\",\n  \"operation\": \"payment\"\n}"
+}

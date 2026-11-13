@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p042",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"1500\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"Ольге Т.\",\n  \"purpose\": \"за торт\",\n  \"invoice_number\": \"14.10.2026\",\n  \"date\": \"14.10.2026\",\n  \"operation\": \"payment\"\n}"
+}

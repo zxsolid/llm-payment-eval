@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v3_example",
+ "prompt_sha": "bffa6da3018c",
+ "case": "p011",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"4500.00\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО Ветер Перемен\",\n  \"purpose\": \"доствку\",\n  \"invoice_number\": \"312\",\n  \"date\": \"2026-10-02\",\n  \"operation\": \"payment\"\n}"
+}

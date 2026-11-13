@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p014",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"2 340,00р\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ооо канцмир\",\n  \"purpose\": \"опл. сч.№88 от 9.10.2026 канцтовары\",\n  \"invoice_number\": \"88\",\n  \"date\": \"9.10.2026\",\n  \"operation\": \"payment\"\n}"
+}

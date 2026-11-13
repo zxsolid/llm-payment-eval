@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v3_example",
+ "prompt_sha": "bffa6da3018c",
+ "case": "p037",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"15000.00\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ИП Лебедев\",\n  \"purpose\": \"отмена заказа\",\n  \"invoice_number\": \"211\",\n  \"date\": \"2026-10-17\",\n  \"operation\": \"refund\"\n}"
+}

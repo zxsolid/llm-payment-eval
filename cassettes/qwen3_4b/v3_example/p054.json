@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v3_example",
+ "prompt_sha": "bffa6da3018c",
+ "case": "p054",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"2000.00\",\n  \"currency\": \"USD\",\n  \"counterparty\": \"ООО Глобал Трейд\",\n  \"purpose\": \"consulting\",\n  \"invoice_number\": \"55\",\n  \"date\": \"2026-11-13\",\n  \"operation\": \"payment\"\n}"
+}

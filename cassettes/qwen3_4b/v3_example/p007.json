@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v3_example",
+ "prompt_sha": "bffa6da3018c",
+ "case": "p007",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"250000.00\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО Стройматериалы СПб\",\n  \"purpose\": \"цемент\",\n  \"invoice_number\": \"5531\",\n  \"date\": \"2026-10-28\",\n  \"operation\": \"payment\"\n}"
+}

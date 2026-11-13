@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v1_naive",
+ "prompt_sha": "38b883db8bc5",
+ "case": "p047",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"65300\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО «Факел»\",\n  \"purpose\": \"Оплата за монтаж вентиляции\",\n  \"invoice_number\": \"\",\n  \"date\": \"\",\n  \"operation\": \"payment\"\n}"
+}

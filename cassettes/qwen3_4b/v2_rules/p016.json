@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v2_rules",
+ "prompt_sha": "12fed242b865",
+ "case": "p016",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"1000000.00\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ООО Мегастрой\",\n  \"purpose\": \"аванс по договору\",\n  \"invoice_number\": \"7/26\",\n  \"date\": \"2026-11-01\",\n  \"operation\": \"payment\"\n}"
+}

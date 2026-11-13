@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v2_rules",
+ "prompt_sha": "12fed242b865",
+ "case": "p026",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"1250.00\",\n  \"currency\": \"EUR\",\n  \"counterparty\": \"Nordic Parts GmbH\",\n  \"purpose\": \"за запчасти\",\n  \"invoice_number\": \"2026-118\",\n  \"date\": \"2026-10-08\",\n  \"operation\": \"payment\"\n}"
+}

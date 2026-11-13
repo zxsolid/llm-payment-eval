@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v2_rules",
+ "prompt_sha": "12fed242b865",
+ "case": "p055",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"18000.00\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ИП Новиков\",\n  \"purpose\": \"grafic design\",\n  \"invoice_number\": null,\n  \"date\": \"2026-11-06\",\n  \"operation\": \"payment\"\n}"
+}

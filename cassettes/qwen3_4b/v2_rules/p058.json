@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v2_rules",
+ "prompt_sha": "12fed242b865",
+ "case": "p058",
+ "run": 0,
+ "raw": "{\n  \"amount\": \"4000.00\",\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ИП Фролов\",\n  \"purpose\": \"фотосессия\",\n  \"invoice_number\": null,\n  \"date\": \"2023-10-05\",\n  \"operation\": \"payment\"\n}"
+}

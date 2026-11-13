@@ -1,0 +1,8 @@
+{
+ "model": "qwen3:4b",
+ "prompt": "v2_rules",
+ "prompt_sha": "12fed242b865",
+ "case": "p020",
+ "run": 0,
+ "raw": "{\n  \"amount\": null,\n  \"currency\": \"RUB\",\n  \"counterparty\": \"ИП Белов\",\n  \"purpose\": \"консультация\",\n  \"invoice_number\": null,\n  \"date\": \"2026-10-22\",\n  \"operation\": \"payment\"\n}"
+}
